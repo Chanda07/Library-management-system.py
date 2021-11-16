@@ -1,0 +1,5 @@
+Harry Potter,JK Rowling,10,1.5
+Clean Code,R.C Martin,11,2
+Code Complete,Andy Hunt,10,2
+Genius Makers,Cade Metz,0,3
+Refactoring,Martin Fowler,9,2.5
